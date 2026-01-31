@@ -1,4 +1,4 @@
-# CommCase
+# CommCrate
 
 > A proof of concept for a 3D-printable, modular emergency communications kit with interchangeable components
 
